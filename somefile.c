@@ -1,7 +1,7 @@
 void main()
 {
-	printf("val 1");
-	printf("val 2");
+	printf("val x");
+	printf("val y");
 	printf("val 3");
 	printf("val 4");
 }
